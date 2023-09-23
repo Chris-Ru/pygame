@@ -1,5 +1,5 @@
 .. include:: common.txt
-
+.
 ****************************
   pygame/examples/chimp.py
 ****************************
